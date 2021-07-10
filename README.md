@@ -11,11 +11,11 @@
 - 📫 How to reach me **moonsbeen@naver.com**
 
 
-# BOJ
+# Github
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moonsbeen626&show_icons=true&locale=en" alt="moonsbeen626" /></p>
 
 
-# Github
+# BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=moonsbeen)](https://solved.ac/moonsbeen/)
 
 
